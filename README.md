@@ -6,7 +6,8 @@ Aplicando uma estilização diferente e validações para formulário.
 #
 
 #### Interface:
-![246643511-72aa0fd2-a530-486f-bebd-4671eeeffc84](https://github.com/mariannegomesm/login-screen/assets/66935004/0341ea43-cdaf-40fb-acd4-9127bc705dfd)
+<img width="1440" alt="Captura de Tela 2023-06-18 às 01 36 23" src="https://github.com/mariannegomesm/login-screen/assets/66935004/3d32a692-cbce-473f-ae56-e0dae43310ce">
+
 
 #
 
